@@ -1,0 +1,9 @@
+# Scratch files
+*.png
+*.bak*
+pair-qr.*
+pair.txt
+node_modules/
+
+# Local machine specifics
+*.local.ps1
